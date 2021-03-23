@@ -1,5 +1,13 @@
 [
     {
+        "id": "21",
+        "section": "releases",
+        "date": "March 23, 2021",
+        "title": "الإصدار الحادي والعشرين",
+        "description": "الحمدلله",
+        "url": "blog_store/posts/releases/21.md"
+    },
+    {
         "id": "setup-yor-own-blog",
         "section": "guide",
         "date": "February 11, 2020",
